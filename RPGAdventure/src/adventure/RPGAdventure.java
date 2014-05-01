@@ -7,7 +7,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.textadventure;
+package adventure;
 
 import view.View;
 import engine.SGEngine;
